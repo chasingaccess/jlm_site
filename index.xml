@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on James Martin</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Home on James Martin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A time series analysis of the ecologic relationship between acute and intermediate PM2.5 exposure duration on neonatal intensive care unit admissions in Florida</title>
+      <link>https://example.com/publications/neonates/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/neonates/</guid>
+      <description>We paired over one million birth records in the state of Florida with daily air pollution estimations and other demographic data to explore the influence of air pollution on neonatal intensive care unit admissions from 2012 to 2019 at the zip code level. Elevated air pollution was associated with an increase in admissions when accounting for confounding factors. As co-author my role involved acquiring and processing environmental data and estimating air pollution using a variety of methods.</description>
+    </item>
+    
+    <item>
+      <title>Household and climate factors influence Aedes aegypti risk in the arid city of Huaquillas, Ecuador</title>
+      <link>https://example.com/publications/aedes/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/aedes/</guid>
+      <description>The Aedes aegyptimosquito is a vector for Dengue fever, Chickgunya, and other viral diseases which are now endemic in Ecuador. This species thrives in high density urban environments and is highly adaptable. To understand the social and ecological factors that bring together humans and mosquitoes, we conducted a survey of households in Huaquillas regarding demographics, living conditions, and prevention strategies. Mosquitos were also collected from these households periodically using backpack aspirators.</description>
+    </item>
+    
+    <item>
+      <title>UF MathGeo Model: A Mechanistic Approach Using Vector Traits and Georeferenced Climate Data</title>
+      <link>https://example.com/publications/mathgeo/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/mathgeo/</guid>
+      <description>This mechanistic model was made for a competition held by the CDC’s Epidemic Prediction Initiative to forecast the probability of detecting two species of disease transmitting mosquito in a number of counties a month in advance. Our model combined data from laboratory studies on the effects of temperature on life traits as well as weather forecasts to predict presence. Our predictions were then validated against actual catch data from mosquito control agencies in participating counties.</description>
+    </item>
+    
+    <item>
+      <title>Inverse Distance Weighting</title>
+      <link>https://example.com/projects/creations/idw/</link>
+      <pubDate>Tue, 11 Feb 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/creations/idw/</guid>
+      <description>A common geostatstical technique used to interpolate values across a study area based on a number of explicit sample locations. I had trouble finding a package in the R repository that implemented this technique in a simple way which proved to be a problem when using IDW to interpolate air pollution concentrations at millions of locations. To make it computationally feasible I coded IDW and an accuracy metric as c++ functions and included them in a package.</description>
+    </item>
+    
+    <item>
+      <title>Health Accessibility Models</title>
+      <link>https://example.com/projects/creations/access/</link>
+      <pubDate>Wed, 11 Dec 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/creations/access/</guid>
+      <description>Health accessibility models have been used to identify regions that are medically under-served due to their population and distance from medical facilities. I used these models to identify neighborhoods in the city of Huaquillas that may lack access to vector control services. I also simulate how different placements of workers and resources could improve access and identify locations to optimally place a new facility.</description>
+    </item>
+    
+    <item>
+      <title>UFMathGeo</title>
+      <link>https://example.com/projects/creations/ufmethgeo/</link>
+      <pubDate>Fri, 11 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/creations/ufmethgeo/</guid>
+      <description>UFMathGeo is a mechanistic model used to estimate the probability of finding two species of disease transmitting mosquito for a given month in a number of counties in the US. For archival purposes the code available on github.</description>
+    </item>
+    
+    <item>
+      <title>Spatial Networks</title>
+      <link>https://example.com/projects/creations/network/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/creations/network/</guid>
+      <description>There are many powerful R packages that allow users to perform network analyses. However there currently isn’t the build-in functionality to use these analyses on spatial datasets. To study a road network for example, you need to convert the shapefile GIS format into an object that is accepted by a package like ‘igraph’. I provide an example on how to perform these conversions and use network analysis to find the shortest route between two locations in the road network.</description>
+    </item>
+    
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>https://example.com/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://example.com/blog/force-ssl/</guid>
+      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+ First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://example.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>
